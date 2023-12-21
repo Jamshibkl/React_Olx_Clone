@@ -12,7 +12,7 @@ Explore this React OLX Clone, a fully functional and dynamic web application bui
 
 ## Live Demo:
 
-Explore the live demo of the React OLX Clone: [Live Demo](https://your-username.github.io/react-olx-clone)
+Explore the live demo of the React OLX Clone: [Live Demo](https://react-olx-clone-five.vercel.app/)
 
 ## How to Use:
 
