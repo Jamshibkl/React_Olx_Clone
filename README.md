@@ -1,4 +1,4 @@
-# React OLX Clone with Firebase Integration
+# React OLX Clone with Firebase Integration🚀
 
 Explore this React OLX Clone, a fully functional and dynamic web application built using React.js and Firebase. This project aims to replicate the user experience of a popular online marketplace, allowing users to post ads, browse listings, and interact with a real-time Firebase backend.
 
