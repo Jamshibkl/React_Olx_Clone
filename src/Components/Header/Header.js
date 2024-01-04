@@ -35,11 +35,18 @@ function Header() {
           </div>
         </div>
         <div className="language">
-          <span> ENGLISH </span>
+        <select name="cars" id="cars">
+  <option value="volvo">English</option>
+  <option value="saab">Hindi</option>
+  <option value="mercedes">Malayalam</option>
+  <option value="audi">Tamil</option>
+</select>
           <Arrow></Arrow>
         </div>
         <div className="loginPage">
+          <Link to="/login">
           <span>{user ? user.displayName : 'Login'}</span>
+          </Link>
           <hr />
         </div>
           {user && <button onClick={()=>{

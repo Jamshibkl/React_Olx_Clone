@@ -85,18 +85,19 @@
   align-items: center;
 }
 
-.language span {
-  /* justify-content: space-between;
-  align-items: center; */
+.language .select {
+  justify-content: space-between;
+  align-items: center;
   font-size: 15px;
   white-space: normal;
   text-overflow: ellipsis;
   font-weight: bolder;
   margin-right: 5px;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
 }
 
-.language svg {
-}
 
 .span {
   text-decoration: none;
@@ -115,6 +116,8 @@
 
 .loginPage a{
   text-decoration: none;
+  color: black;
+  list-style-type: none;
 }
 
 .sellMenu {
